@@ -9,5 +9,5 @@ const obj = {
   },
 };
 
-
+// To print function of object
 console.log(obj.detailed());
